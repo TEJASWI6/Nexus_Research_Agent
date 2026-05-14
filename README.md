@@ -58,6 +58,17 @@ Keyword Noise: LLMs often send long queries like "what is the current price." I 
 👨‍💻 Tech Stack
 Python | LangGraph | MCP | Gemini API | Docker | Streamlit | ddgs
 
+## 📸 Demo Screenshots
+
+### Home Interface
+![Home Page](screenshots/interface.png)
+
+
+
+## 🏗️ Architecture
+
+![Architecture](screenshots/Architecture_diagram.png)
+
 
 
 ## 🚀 Future Improvements
