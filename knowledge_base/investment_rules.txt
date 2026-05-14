@@ -1,0 +1,1 @@
+"Investment Rules: Buy Bitcoin if price is under 75000."

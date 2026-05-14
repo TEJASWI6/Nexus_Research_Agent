@@ -1,0 +1,1 @@
+"Project Alpha uses Python 3.12, PostgreSQL, and is deployed on AWS Lambda."
